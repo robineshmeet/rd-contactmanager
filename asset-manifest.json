@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rd-contactmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/rd-contactmanager/static/js/main.f6fdec51.chunk.js",
+    "main.js.map": "/rd-contactmanager/static/js/main.f6fdec51.chunk.js.map",
+    "runtime-main.js": "/rd-contactmanager/static/js/runtime-main.958e38c6.js",
+    "runtime-main.js.map": "/rd-contactmanager/static/js/runtime-main.958e38c6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/rd-contactmanager/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7bff490b.chunk.js": "/rd-contactmanager/static/js/2.7bff490b.chunk.js",
+    "static/js/2.7bff490b.chunk.js.map": "/rd-contactmanager/static/js/2.7bff490b.chunk.js.map",
+    "index.html": "/rd-contactmanager/index.html",
+    "precache-manifest.91b4d74c5c5071c9c64cd8be44fcf2ea.js": "/rd-contactmanager/precache-manifest.91b4d74c5c5071c9c64cd8be44fcf2ea.js",
+    "service-worker.js": "/rd-contactmanager/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/rd-contactmanager/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/rd-contactmanager/static/css/main.36497136.chunk.css.map",
+    "static/js/2.7bff490b.chunk.js.LICENSE.txt": "/rd-contactmanager/static/js/2.7bff490b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958e38c6.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7bff490b.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.f6fdec51.chunk.js"
+  ]
+}
